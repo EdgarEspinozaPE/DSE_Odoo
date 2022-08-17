@@ -1,0 +1,89 @@
+id,name,country_id,property_product_pricelist,opportunity_ids,opportunity_count,credit,debit,debit_limit,total_invoiced,customer_rank,city_id,trust,team_id,company_type,credit_limit,category_id,sale_order_count
+63,Aibox,"[48, 'China']","[1, 'Public Pricelist (PEN)']","[46, 45]",2,10500.0,10729.74,944505.0,10500.0,1,False,normal,False,company,192282.0,[],1
+14,Azure Interior,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[22, 19]",9,40246.4,2151.26,612403.0,71996.40000000001,5,False,bad,False,company,267583.0,[5],6
+69,Babbleblab,"[228, 'Tanzania']","[1, 'Public Pricelist (PEN)']","[58, 57, 56, 55, 54]",5,132300.0,12036.0,765534.0,132300.0,1,False,normal,False,company,66211.0,"[6, 5]",2
+91,Babbleopia,"[49, 'Colombia']","[1, 'Public Pricelist (PEN)']","[60, 59]",2,26166.0,7552.0,875121.0,26166.0,1,False,good,False,company,504479.0,"[7, 6]",1
+78,Centidel,"[178, 'Poland']","[1, 'Public Pricelist (PEN)']","[63, 62, 61]",3,151116.0,42480.0,260796.0,151116.0,1,False,bad,False,company,744914.0,[7],3
+42,Comercial Constructora los Patitos S.A.,"[173, 'Peru']","[1, 'Public Pricelist (PEN)']",[64],1,69030.0,6372.0,202419.0,58500.0,1,False,good,False,company,338815.0,[],0
+61,Dabfeed,"[178, 'Poland']","[1, 'Public Pricelist (PEN)']","[67, 66, 65]",3,56564.0,6608.0,251126.0,56564.0,1,False,good,False,company,560418.0,[6],1
+62,Dabjam,"[165, 'Netherlands']","[1, 'Public Pricelist (PEN)']",[68],1,463344.0,113280.0,782445.0,463344.0,1,False,bad,False,company,950157.0,[],2
+10,Deco Addict,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[27, 26, 14, 15]",14,119249.0,8457.06,385988.0,211999.0,9,False,normal,False,company,400917.0,[7],6
+58,Eare,"[100, 'Indonesia']","[1, 'Public Pricelist (PEN)']","[81, 80, 79, 78]",4,95844.0,4956.0,900059.0,95844.0,1,False,normal,False,company,132818.0,[],3
+68,Eidel,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,149622.0,0.0,0,False,normal,False,company,909825.0,"[4, 7, 1]",0
+74,Fatz,"[100, 'Indonesia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[6],0
+59,Fivespan,"[234, 'Uruguay']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+50,Flashdog,"[146, 'Mongolia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+80,Gabtune,"[190, 'Russian Federation']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[7, 5]",0
+71,Gabtune,"[164, 'Nicaragua']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[4, 3]",0
+11,Gemini Furniture,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[20],4,113470.0,11678.460000000001,94903.0,113470.0,3,False,normal,False,company,336858.0,"[4, 7]",17
+47,Jabbersphere,"[48, 'China']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[2],0
+49,Jaloo,"[190, 'Russian Federation']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+46,Jaxbean,"[75, 'France']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[4],0
+52,Jayo,"[100, 'Indonesia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+87,Jazzy,"[132, 'Lithuania']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[6, 1]",0
+45,Kaymbo,"[113, 'Japan']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[7],0
+81,Kwideo,"[96, 'Honduras']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[7, 6]",0
+64,Leexo,"[100, 'Indonesia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+60,Livefish,"[178, 'Poland']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+15,Lumber Inc,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[23],1,0.0,0.0,815072.0,0.0,0,False,good,False,company,363678.0,[],1
+54,Meevee,"[75, 'France']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+77,Mudo,"[173, 'Peru']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,"[37, 'Caraveli']",normal,False,company,0.0,"[3, 5, 1]",0
+89,Myworks,"[176, 'Philippines']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[7],0
+70,Npath,"[48, 'China']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[5, 1]",0
+65,Omba,"[163, 'Nigeria']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+86,Oyoloo,"[176, 'Philippines']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[3],0
+92,Oyope,"[44, ""Côte d'Ivoire""]","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[6, 2]",0
+48,Ozu,"[163, 'Nigeria']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[6, 5]",0
+66,Quatz,"[10, 'Argentina']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[7],0
+12,Ready Mat,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[21, 16, 18]",3,0.0,0.0,72837.0,0.0,0,False,bad,False,company,106157.0,"[7, 6]",2
+53,Realmix,"[49, 'Colombia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+90,Rhycero,"[176, 'Philippines']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[2],0
+83,Rhyloo,"[70, 'Finland']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[6, 1]",0
+85,Skaboo,"[100, 'Indonesia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[5, 1]",0
+56,Skalith,"[183, 'Portugal']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+72,Skiba,"[73, 'Micronesia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[7, 6]",0
+88,Skinix,"[10, 'Argentina']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[3, 1]",0
+44,Skyba,"[75, 'France']","[1, 'Public Pricelist (PEN)']",[],0,32000.0,3065.64,612403.0,32000.0,1,False,good,False,company,267583.0,"[4, 5]",0
+57,Tagpad,"[48, 'China']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+55,Tazzy,"[183, 'Portugal']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+13,The Jackson Group,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+79,Thoughtmix,"[75, 'France']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[6, 5]",0
+93,Topicblab,"[176, 'Philippines']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[3, 6, 5]",0
+51,Topiczoom,"[190, 'Russian Federation']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+75,Twitterbridge,"[190, 'Russian Federation']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[7, 2]",0
+73,Voonix,"[229, 'Ukraine']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[6, 5]",0
+9,Wood Corner,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],2,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[7, 6]",0
+76,Wordware,"[157, 'Malaysia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[3, 2]",0
+1,YourCompany,"[173, 'Peru']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[],0
+82,Zoomdog,"[48, 'China']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[4, 7, 6]",0
+84,Zoomzone,"[46, 'Chile']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,"[6, 1]",0
+67,Zooxo,"[100, 'Indonesia']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,company,0.0,[4],0
+26,Brandon Freeman,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[48, 47]",2,0.0,0.0,665568.0,1500.0,1,False,good,False,person,813913.0,[],3
+33,Colleen Diaz,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[52, 51, 50, 49]",4,0.0,0.0,224394.0,2496.4,1,False,bad,False,person,884080.0,[],3
+27,Nicole Ford,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[53],1,0.0,0.0,882224.0,4500.0,1,False,good,False,person,844741.0,[],0
+35,Addison Olson,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[72, 71, 70, 69]",4,0.0,0.0,346590.0,1264.0,1,False,good,False,person,339543.0,[],1
+18,Douglas Fletcher,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[74, 73]",2,0.0,0.0,272813.0,12593.0,1,False,bad,False,person,775180.0,[],1
+19,Floyd Steward,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[77, 76, 75]",3,0.0,0.0,175367.0,12642.0,1,False,good,False,person,316287.0,[],2
+20,Edwin Hansen,"[233, 'United States']","[1, 'Public Pricelist (PEN)']","[83, 82]",2,0.0,0.0,304544.0,22050.0,1,False,good,False,person,617874.0,[],2
+22,Jesse Brown,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[84],1,0.0,0.0,348882.0,26460.0,1,False,good,False,person,287550.0,[],2
+31,Oscar Morgan,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,94903.0,0.0,0,False,normal,False,person,336858.0,[],0
+23,Soham Palmer,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,94903.0,0.0,0,False,normal,False,person,336858.0,[],0
+34,Lorraine Douglas,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,815072.0,0.0,0,False,normal,False,person,363678.0,[],0
+41,PE Company,"[173, 'Peru']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+21,Billy Fox,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,72837.0,0.0,0,False,normal,False,person,106157.0,[],0
+25,Edith Sanchez,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,72837.0,0.0,0,False,normal,False,person,106157.0,[],0
+37,Julie Richards,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,72837.0,0.0,0,False,normal,False,person,106157.0,[],0
+24,Kim Snyder,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,72837.0,0.0,0,False,normal,False,person,106157.0,[],0
+36,Sandra Neal,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,72837.0,0.0,0,False,normal,False,person,106157.0,[],0
+30,Theodore Gardner,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,72837.0,0.0,0,False,normal,False,person,106157.0,[],0
+38,Travis Mendoza,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,72837.0,0.0,0,False,normal,False,person,106157.0,[],0
+29,Gordon Owens,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+28,Toni Rhodes,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+17,Ron Gibson,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+32,Tom Ruiz,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+16,Willie Burke,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+39,Chester Reed,"[173, 'Peru']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+40,Dwayne Newman,"[173, 'Peru']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+8,Joel Willis,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],2
+7,Marc Demo,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
+3,Mitchell Admin,"[233, 'United States']","[1, 'Public Pricelist (PEN)']",[],0,0.0,0.0,0.0,0.0,0,False,normal,False,person,0.0,[],0
