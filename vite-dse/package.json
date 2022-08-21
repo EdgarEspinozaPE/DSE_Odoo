@@ -5,7 +5,7 @@
   "type": "module",
   "proxy": "http://localhost:5000/",
   "scripts": {
-    "dev": "vite --port 4000",
+    "dev": "vite --port 4000 --host",
     "build": "vite build",
     "preview": "vite preview"
   },
